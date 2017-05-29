@@ -1,0 +1,10 @@
+{
+  "name": "node-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zhangguanyu02 <zhangguanyu02@meituan.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.16.2"
+  }
+}
