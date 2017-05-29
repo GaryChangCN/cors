@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "zhangguanyu02 <zhangguanyu02@meituan.com>",
   "license": "MIT",
+  "scripts": {
+	  "start":"node app.js"
+  },
   "dependencies": {
     "http-proxy": "^1.16.2"
   }
